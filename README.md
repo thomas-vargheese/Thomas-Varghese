@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I'm **Thomas **<br><br>💻 Passionate Developer | 🚀 Open-Source Enthusiast | 📚 Consistent Learner<br><br>Welcome to my GitHub! I'm an Electronics & Computer Engineer and a Cybersecurity Enthusiast with keen interest in Quantum Computing, always exploring new technologies and building innovative projects.<br><br>🔹 Tech Stack: Python, Java, C, C++, JavaScript, Linux.<br>🔹 Currently Working On: Anomaly Detection in Network Traffic in IoT devices using Machine Learning.<br>🔹 Looking to Collaborate On: Open-source projects, startups, researchs.
+👋 Hey there, I'm **Thomas**<br><br>💻 Passionate Developer | 🚀 Open-Source Enthusiast | 📚 Consistent Learner<br><br>Welcome to my GitHub! I'm an Electronics & Computer Engineer with specialisation in AI and Machine Learning with keen interest in Quantum Computing and Cybersecurity, always exploring new technologies and building innovative projects.<br><br>🔹 Tech Stack: Python, Java, C, C++, JavaScript, Linux.<br>🔹 Currently Working On: Anomaly Detection in Network Traffic in IoT devices using Machine Learning.<br>🔹 Looking to Collaborate On: Open-source projects, startups, researchs.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
